@@ -1,0 +1,59 @@
+/* *{
+    border: 1px solid red;
+} */
+
+body {
+    font: normal 10px Verdana, sans-serif;
+    font-family:sans-serif;
+    padding:20px ;
+    text-align: center;
+}
+h1{
+    text-align: left;
+    margin:auto;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+
+div{
+    text-align: right;
+}
+
+h4{
+    text-align: left;
+    margin-left: 20px;
+}
+
+form{
+    border: 1px solid rgba(0, 0, 0, 0.112);
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    width: 300px;
+    align-items: center;
+    display: inline-block;
+    background-color: rgba(228, 228, 228, 0.308);
+}
+
+.continueButt{
+    background-color: rgb(244, 204, 135);
+    color:  black;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 3px;
+}
+
+.createButt{
+    background-color: rgb(222, 222, 222);
+    color:  black;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 3px;
+}
+
+.password{
+    margin-right: auto;
+}
+
+footer{
+    text-align: center;
+}
